@@ -5,7 +5,7 @@ export default function Page() {
         Coming Soon
     </h1>
     <p className="text-white text-lg mb-8">
-        We&aposre working hard to bring you something amazing. Stay tuned!  
+        We are working hard to bring you something amazing. Stay tuned!  
     </p>
   </div>
   )
